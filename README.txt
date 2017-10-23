@@ -1,6 +1,6 @@
 Implemented long ago (in March 2017) as a test task.
-Captures / grabs running Windows processes (via Wind 'tasklist' command, for peculiarities check https://ss64.com/nt/tasklist.html),
-creates excel sheet & draws Chart in Excel with the following data:
+Captures / grabs running Windows processes (via Wind 'tasklist' command, for peculiarities
+ check https://ss64.com/nt/tasklist.html), creates excel sheet & draws Chart in Excel with the following data:
     +--------------------------+
     |    Name    | UsedMemory  |
     +--------------------------+
